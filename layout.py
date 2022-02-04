@@ -191,7 +191,7 @@ def validfixedsetv2(diceset):
             msg = 'pasch2'
             numbers[0] = 0
         if numbers[0] == 4:
-            points += 4000
+            points += 2000
             msg = 'pasch3'
             numbers[0] = 0
         if numbers[0] == 3:
